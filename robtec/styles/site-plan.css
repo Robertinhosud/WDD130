@@ -9,7 +9,7 @@ Fonts are separated by a | */
   --primary-color: #021321 ;
   --secondary-color: #818388 ;
   --accent1-color: #5BE1E6;
-  --accent2-color: #02FCFD;
+  --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Roboto", sans-serif;
@@ -21,7 +21,7 @@ Fonts are separated by a | */
   --paragraph-color-on-white: #021321; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #021321  ;
-  --nav-link-color: #02FCFD;
+  --nav-link-color: #5BE1E6;
   --nav-background-color: #021321;
   --nav-hover-link-color: white;
   --nav-hover-background-color: #818388;
