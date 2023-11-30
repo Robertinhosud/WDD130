@@ -254,9 +254,16 @@ form {
     z-index: 3;
     text-align: center;
     color: white;
+    
   }
 
+  .parallax-back {
+    background-color: #818388 ;
+    border-radius: 30px;
+    color: white;
+    margin-top: 10px;
 
+}
 
 
 @media screen and (max-width: 900px) {
