@@ -252,11 +252,14 @@ form {
     z-index: 3;
     text-align: center;
     color: white;
+    margin: 30px;
+
     
   }
 
   .parallax-back {
     background-color: #818388 ;
+    padding: 20px;
     border-radius: 30px;
     color: white;
     margin-top: 10px;
@@ -305,8 +308,5 @@ form {
         margin-top: 25px;
     }
 
-    /* Turn off parallax scrolling for tablets and phones */
-    .bgimg-1, .bgimg-2, .bgimg-3 {
-        background-attachment: scroll;
-      }
+
 }
